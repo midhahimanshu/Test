@@ -1,0 +1,19 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "mpalanisamy1",
+  "key": "7jQ4AK9WKAsXunSef8AS",
+
+  "capabilities": {
+    "name": "ITK Tests",
+    "browserstack.debug": true
+  },
+
+  "environments": {
+    "samsung_7": {
+      "device": "Moto G4",
+      "os": "7.1.1",
+      "runon": "ANDROID_SITE",
+      "deviceid": ""
+    }
+  }
+}
